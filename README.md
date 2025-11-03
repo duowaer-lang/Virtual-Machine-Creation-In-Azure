@@ -53,3 +53,12 @@ Step 7
 : Click on review + create and create once again
 </p>
 <br />
+
+<p>
+<img src="https://github.com/duowaer-lang/Storage-Account-Creation/blob/main/Resource%20Step%209.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 9
+ : Check if your storage account is in the right resource group in the resource group column
+</p>
+<br />
