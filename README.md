@@ -7,7 +7,7 @@ This tutorial outlines the steps required to create your first virtual machine i
 
 - Microsoft Azure (Virtual Machines)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>Configuration Steps</h2>
 
 - Step 1: Creat a free subscription in Microsoft Azure by visiting https://azure.microsoft.com/en-ca/pricing/purchase-options/azure-account/ and click "Try Azure for free"
 - Step 2: Sign in with a email address you own or create a new one 
