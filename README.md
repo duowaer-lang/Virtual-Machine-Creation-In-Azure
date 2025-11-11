@@ -36,11 +36,10 @@ Step 23: Congratulations! You will see your very first virtual machine with its 
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://github.com/duowaer-lang/Storage-Account-Creation/blob/main/Resource%20Step%202.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/duowaer-lang/Virtual-Machine-Creation-In-Azure/blob/main/Step%201.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 1
- : Search Resource Groups and click on create at the top left of the page ( It will have a + sign) in Microsoft Azure
+Step 1: Creat a free subscription in Microsoft Azure by visiting https://azure.microsoft.com/en-ca/pricing/purchase-options/azure-account/ and click "Try Azure for free"
 </p>
 <br />
 
